@@ -32,10 +32,11 @@
             <!-- Foto -->
             <ImageView
                 android:id="@+id/iv_photo_profile"
-                android:layout_width="match_parent"
+                android:layout_width="400dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:paddingTop="50dp"
+                android:src="@drawable/photo_profile"
                 android:contentDescription="@string/iv_photo_profile"
                 android:scaleType="centerCrop" />
 
