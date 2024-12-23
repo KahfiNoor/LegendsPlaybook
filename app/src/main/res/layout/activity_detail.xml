@@ -35,7 +35,6 @@
                 android:layout_width="400dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:src="@drawable/full_ballistic"
                 android:contentDescription="@string/iv_full_photo"
                 android:scaleType="centerCrop" />
 
