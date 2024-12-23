@@ -46,6 +46,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation(libs.androidx.core.splashscreen)
 //    Glide for image loading
     implementation(libs.glide)
 //    annotationProcessor("com.github.bumptech.glide:compiler:4.16.0")

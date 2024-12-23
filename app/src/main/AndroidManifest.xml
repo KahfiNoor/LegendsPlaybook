@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/icon_app_bg"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LegendsPlaybook"
+        android:theme="@style/Base.Theme.LegendsPlaybook"
         tools:targetApi="31">
         <activity
             android:name=".AboutActivity"
@@ -22,7 +22,8 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.App.LegendsPlaybook">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -30,7 +30,7 @@ class DetailActivity : AppCompatActivity() {
         val tvDetailUltimate: TextView = findViewById(R.id.tv_detail_ultimate)
         val ivClassIcon: ImageView = findViewById(R.id.iv_class_icon)
         val btnReadMore: Button = findViewById(R.id.btn_read_more)
-        val bShare: Button = findViewById(R.id.btn_action_share)
+        val bShare: Button = findViewById(R.id.action_share)
 
         val legend = intent.getParcelableExtra<Legends>("EXTRA_LEGEND")
 
