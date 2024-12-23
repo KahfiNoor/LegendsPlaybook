@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Lingkaran Luar (Outline) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="?attr/colorPrimary"
+        android:strokeWidth="2"
+        android:pathData="M24,2A22,22 0,1 1,2,24A22,22 0,0 1,24,2Z" />
+
+    <!-- Lingkaran Dalam (Ikon User) -->
+    <path
+        android:fillColor="?attr/colorPrimary"
+        android:pathData="M24,24A8,8 0,1 1,32,16A8,8 0,0 1,24,24ZM24,26C19.33,26 10,28.34 10,32V36H38V32C38,28.34 28.67,26 24,26Z" />
+</vector>
+

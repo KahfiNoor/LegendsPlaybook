@@ -1,0 +1,448 @@
+<resources>
+    <string name="app_name">LegendsPlaybook</string>
+
+    <string name="legends_name">Name</string>
+    <string name="legends_description">Description</string>
+
+    <string name="about">About Me</string>
+    <string name="about_name">Muhammad Kahfy Noor Alwani</string>
+    <string name="about_email">kahfinoor013@gmail.com</string>
+    <string name="about_github">https://github.com/KahfiNoor</string>
+    <string name="about_linkedin">https://linkedin.com/in/kahfy-noor</string>
+    <string name="about_repo">https://github.com/KahfiNoor/LegendsPlaybook</string>
+
+    <string name="detail_name">Name</string>
+    <string name="detail_role">Role</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_real_name">Real Name</string>
+    <string name="detail_Age">Age</string>
+    <string name="detail_home">Home</string>
+    <string name="detail_class">Class</string>
+    <string name="detail_tactical">Tactical Ability</string>
+    <string name="detail_passive">Passive Ability</string>
+    <string name="detail_ultimate">Ultimate Ability</string>
+
+    <string name="share">Share</string>
+    <string name="read_more">Read More</string>
+    <string name="iv_full_photo">full_photo</string>
+    <string name="iv_photo_profile">Photo Profile</string>
+    <string name="about_repository">Repository</string>
+    <string name="about_view_github">Github</string>
+    <string name="about_view_linkedin">Linkedin</string>
+
+    <string-array name="legends_name_data">
+        <item>Alter</item>
+        <item>Ash</item>
+        <item>Ballistic</item>
+        <item>Bangalore</item>
+        <item>Bloodhound</item>
+        <item>Catalyst</item>
+        <item>Caustic</item>
+        <item>Conduit</item>
+        <item>Crypto</item>
+        <item>Fuse</item>
+        <item>Gibraltar</item>
+        <item>Horizon</item>
+        <item>Lifeline</item>
+        <item>Loba</item>
+        <item>Mad Maggie</item>
+        <item>Mirage</item>
+        <item>Newcastle</item>
+        <item>Octane</item>
+        <item>Pathfinder</item>
+        <item>Rampart</item>
+        <item>Revenant</item>
+        <item>Seer</item>
+        <item>Valkyrie</item>
+        <item>Vantage</item>
+        <item>Wattson</item>
+        <item>Wraith</item>
+    </string-array>
+
+    <string-array name="legends_role_data">
+        <item>Void Breacher</item>
+        <item>Incisive Instigator</item>
+        <item>Refined Gunslinger</item>
+        <item>Professional Soldier</item>
+        <item>Technological Tracker</item>
+        <item>Defensive Conjurer</item>
+        <item>Toxic Trapper</item>
+        <item>Shield Healer</item>
+        <item>Surveillance Expert</item>
+        <item>Bombastic Explosives Expert</item>
+        <item>Shielded Fortress</item>
+        <item>Gravitational Manipulator</item>
+        <item>Combat Medic</item>
+        <item>Translocating Thief</item>
+        <item>Rebel Warlord</item>
+        <item>Holographic Trickster</item>
+        <item>Heroic Defender</item>
+        <item>High-Speed Daredevil</item>
+        <item>Forward Scout</item>
+        <item>Amped Modder</item>
+        <item>Synthetic Nightmare</item>
+        <item>Ambush Artist</item>
+        <item>Winged Avenger</item>
+        <item>Sniper Savant</item>
+        <item>Static Defender</item>
+        <item>Interdimensional Skirmisher</item>
+    </string-array>
+
+    <string-array name="legends_real_name_data">
+        <item>YingLing Lui (雷盈灵)</item>
+        <item>Dr. Ashleigh Reid</item>
+        <item>August Montgomery Brinkman</item>
+        <item>Anita Williams</item>
+        <item>Blódhundr</item>
+        <item>Tressa Crystal Smith</item>
+        <item>Alexander Nox</item>
+        <item>Rowenna Valentina Coffey Divina</item>
+        <item>Tae Joon Park</item>
+        <item>Walter Fitzroy Jr.</item>
+        <item>Makoa Gibraltar</item>
+        <item>Dr. Mary Somers</item>
+        <item>Ajay Che</item>
+        <item>Loba Andrade</item>
+        <item>Margaret Kōhere</item>
+        <item>Elliott Witt</item>
+        <item>Jackson Williams</item>
+        <item>Octavio Silva</item>
+        <item>Pathfinder</item>
+        <item>Ramya Parekh</item>
+        <item>Kaleb Cross</item>
+        <item>Obi Edolasim</item>
+        <item>Kairi Imahara</item>
+        <item>Xiomara “Mara” Contreras</item>
+        <item>Natalie Paquette</item>
+        <item>Renee Hope Blasey</item>
+    </string-array>
+
+    <string-array name="legends_age_data">
+        <item>Unknown</item>
+        <item>122</item>
+        <item>63</item>
+        <item>40</item>
+        <item>40</item>
+        <item>30</item>
+        <item>50</item>
+        <item>27</item>
+        <item>24</item>
+        <item>55</item>
+        <item>32</item>
+        <item>39 (Give or take an extra 87years…)</item>
+        <item>26</item>
+        <item>36</item>
+        <item>56</item>
+        <item>32</item>
+        <item>41</item>
+        <item>26</item>
+        <item>77</item>
+        <item>23</item>
+        <item>359</item>
+        <item>27</item>
+        <item>31</item>
+        <item>19</item>
+        <item>24</item>
+        <item>34</item>
+    </string-array>
+
+    <string-array name="legends_home_world_data">
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Gaea</item>
+        <item>Gridiron</item>
+        <item>Talos</item>
+        <item>Boreas</item>
+        <item>Gaea</item>
+        <item>Nexus</item>
+        <item>Gaea</item>
+        <item>Salvo</item>
+        <item>Solace</item>
+        <item>Solace</item>
+        <item>Psamathe</item>
+        <item>None</item>
+        <item>Salvo</item>
+        <item>Solace</item>
+        <item>Gridiron</item>
+        <item>Psamathe</item>
+        <item>Psamathe</item>
+        <item>Gaea</item>
+        <item>Unknown</item>
+        <item>Boreas</item>
+        <item>Angelia</item>
+        <item>Págos</item>
+        <item>Solace</item>
+        <item>Typhon</item>
+    </string-array>
+
+    <string-array name="legends_class_data">
+        <item>Skirmisher</item>
+        <item>Assault</item>
+        <item>Assault</item>
+        <item>Assault</item>
+        <item>Recon</item>
+        <item>Controller</item>
+        <item>Controller</item>
+        <item>Support</item>
+        <item>Recon</item>
+        <item>Assault</item>
+        <item>Support</item>
+        <item>Skirmisher</item>
+        <item>Support</item>
+        <item>Support</item>
+        <item>Assault</item>
+        <item>Support</item>
+        <item>Support</item>
+        <item>Skirmisher</item>
+        <item>Skirmisher</item>
+        <item>Controller</item>
+        <item>Skirmisher</item>
+        <item>Recon</item>
+        <item>Skirmisher</item>
+        <item>Recon</item>
+        <item>Controller</item>
+        <item>Skirmisher</item>
+    </string-array>
+
+    <string-array name="legends_tactical_data">
+        <item>Void Passage</item>
+        <item>Arc Snare</item>
+        <item>Whistler</item>
+        <item>Smoke Launcher</item>
+        <item>Eye of the Allfather</item>
+        <item>Piercing Spikes</item>
+        <item>Nox Gas Trap</item>
+        <item>Radiant Transfer</item>
+        <item>Surveillance Drone</item>
+        <item>Knuckle Cluster</item>
+        <item>Dome of Protection</item>
+        <item>Gravity Lift</item>
+        <item>D.O.C. Heal Drone</item>
+        <item>Burglar\'s Best Friend</item>
+        <item>RIOT DRILL</item>
+        <item>Psyche Out</item>
+        <item>Mobile Shield</item>
+        <item>Stim</item>
+        <item>Grappling Hook</item>
+        <item>Amped Cover</item>
+        <item>Shadow Pounce</item>
+        <item>Focus of Attention</item>
+        <item>Missile Swarm</item>
+        <item>Echo Relocation</item>
+        <item>Perimeter Security</item>
+        <item>Into the Void</item>
+    </string-array>
+
+    <string-array name="legends_passive_data">
+        <item>Gift from the Rift</item>
+        <item>Marked For Death</item>
+        <item>Sling</item>
+        <item>Double Time</item>
+        <item>Tracker</item>
+        <item>Barricade</item>
+        <item>Nox Vision</item>
+        <item>Savior\'s Speed</item>
+        <item>Neurolink</item>
+        <item>Grenadier</item>
+        <item>Gun Shield</item>
+        <item>Spacewalk</item>
+        <item>Combat Glide</item>
+        <item>Eye for Quality</item>
+        <item>WARLORD\'S IRE</item>
+        <item>Now You See Me..</item>
+        <item>Retrieve the Wounded</item>
+        <item>Swift Mend</item>
+        <item>Insider Knowledge</item>
+        <item>Modded Loader</item>
+        <item>Assassin\'s Instinct</item>
+        <item>Heart Seeker</item>
+        <item>VTOL Jets</item>
+        <item>Spotter\'s Lens</item>
+        <item>Spark of Genius</item>
+        <item>Voices from the Void</item>
+    </string-array>
+
+    <string-array name="legends_ultimate_data">
+        <item>Void Nexus</item>
+        <item>Phase Breach</item>
+        <item>Tempest</item>
+        <item>Rolling Thunder</item>
+        <item>Beast of the Hunt</item>
+        <item>Dark Veil</item>
+        <item>Nox Gas Grenade</item>
+        <item>Energy Barricade</item>
+        <item>Drone EMP</item>
+        <item>The Motherlode</item>
+        <item>Defensive Bombardment</item>
+        <item>Black Hole</item>
+        <item>D.O.C. Halo</item>
+        <item>Black Market Boutique</item>
+        <item>WRECKING BALL</item>
+        <item>Life of the Party</item>
+        <item>Castle Wall</item>
+        <item>Launch Pad</item>
+        <item>Zipline Gun</item>
+        <item>Emplaced Minigun “Sheila”</item>
+        <item>Forged Shadows</item>
+        <item>Exhibit</item>
+        <item>Skyward Dive</item>
+        <item>Sniper\'s Mark</item>
+        <item>Interception Pylon</item>
+        <item>Dimensional Rift</item>
+    </string-array>
+
+    <string-array name="legends_description_data">
+        <item>When Alter emerged from her dimension into another (with her past held close to the chest), she had only two things: her interdimensional traveling Void tech, and a desire to have fun. She stole the fanciest of foods, learned to fight through dicey situations, and took on odd jobs for personal favors–though she didn\'t have a problem double-crossing her clients if it was more beneficial or amusing. Never needing to stick around for the consequences of her actions eroded any sense of morality or responsibility she had. She could focus on what was important: making sure life was never mundane.\n
+Alter was drawn to worlds on the edge of complete destruction. Whether something devastating was already happening or she helped usher in the apocalypse herself, she was there to watch whatever catastrophe ensued. It was only in those moments, after all, that people took off the masks they always wore and she could see their true selves.\n
+Finding these world-ending events was a toss up. Sometimes she\'d find what she was looking for, and on others, she\'d have missed the main event in worlds already ruined. But in some of these ruined worlds, Alter began to notice an interesting commonality…\n
+Many of these worlds hadn\'t met their end by some random event; they had been destroyed by the same person.</item>
+
+        <item>Born in the unforgiving Frontier, Dr. Ashleigh Reid - still very much a human - learned early that the only person who was going to look out for her was herself. One day, she was hired by a mercenary group for a delicate job: steal an experimental fuel source being researched in the Outlands city of Olympus. It was the perfect job for Reid, who infiltrated and psychologically manipulated the researchers for years. When the lab self-destructed, she died.\n
+And didn\'t.\n
+Her brain was put in a simulacrum shell, but in the process, she lost years of memories, and the trauma of her “death” caused her personality to fracture. Ash is the embodiment of the cold, perfectionistic, power-hungry side of Dr. Reid. But behind that confident facade, something sinister is simmering. After an encounter with Horizon that overrides Ash\'s simulacrum programming, the framework that kept the vulnerable—yet intelligent—Leigh personality dormant has begun to crack. Ash joins the Games to prove she has transcended all humanity. Leigh\'s determined to prove her wrong.</item>
+
+        <item>August was the sole heir to the Brinkman fortune, built on shady backroom deals. But when those deals caught up with his parents, August was left a billionaire orphan. Wealthy, furious and self-destructive, August joined the Thunderdome Games (the pre-Apex Apex Games). Here, he took the name Ballistic and became a sensation! His style was wild, reckless, and utterly selfish⁠, helping him become the very first Thunderdome celebrity.\n He was famed for his iconic CAR (“Lady Grey”, for the tea). It was here, in combat, that August would meet the love of his life, Sok Leng. They would quickly marry and have a son, Nathaniel. Sok Leng and her brother Kit Siang were an inseparable duo of destruction, and with August now in their squad, they seemed unstoppable.\n But nothing lasts forever. August\'s crowd-pandering combat style meant he wasn\'t paying attention to his team when they needed him, leading to Kit Siang\'s death. Devastated by guilt, August retreated into himself, driving away his wife and son. For nearly two decades, August lived as a recluse, keeping busy with small tasks to distract a lonely mind. And so August was largely forgotten, though not by everyone. His son, Nathaniel, was both enamored with his father\'s victories and determined to surpass them. When his son qualified to join the dangerous Apex Games, August went to the Syndicate with an offer: take me instead.\n His son would be safe from the path that ruined him. What better way to use those skills than in selfless service? And if it just so happens to be his favorite activity, killing all who stand against him…That\'s quite the fortunate coincidence.</item>
+
+        <item>Born into a military family where she, her parents, and her four older brothers all served with the IMC, Bangalore has been an exceptional soldier her whole life. Dedicated to the IMC cause, she was top of her class at the IMC Military Academy and the only cadet who could take apart a Peacekeeper, equip it with a Precision Choke hop-up, and put it back together in under twenty seconds – blindfolded.\n When the Frontier Militia attacked the IMC on Gridiron, escape was nearly impossible. Using an experimental device to power their jump-drive, the IMS Hestia managed to narrowly escape the Battle at Gridiron only to crash on the planet Gaea. The surviving crew, including Anita and her brother Jackson, built a settlement on the islands of New Antilla. Shortly after, Anita and Jackson left to begin their quest back home– or so she thought.\n A few years later, on another ship nicknamed the IMS Hestia II, Anita and Jackson were attacked by unknown assailants. A bomb on the outer hull blew out a chunk of the ship… but not before Jackson shielded her, sacrificing his own life to save hers. Anita watched helplessly, as Jackson was sucked out into the vacuum of space. After crashing on the Syndicate planet Solace, Anita looked for both work and the brother she refused to believe had died, so they could begin the decades-long trip back home.\n She started fighting in the Games in the hopes of earning the money and finding a pilot willing to take the epic trip back home to reunite with what remains of her family, but was shocked to find Jackson alive and living a new life. Now that Anita and Jackson are reunited in the Games, she plans to work through her relationship with her estranged brother and support her new chosen family–the Legends.</item>
+
+        <item>Bloodhound is known across the Outlands as one of the greatest game hunters the Frontier has ever seen. The child of two engineers stationed at the New Dawn industrial plant on Talos, Bloodhound was taken in by their uncle Artur after a meltdown destroyed the facility and killed both their parents. Artur taught them the Old Ways, a belief system that focuses on the glory of nature and rejects modern technology. Yet Bloodhound was constantly drawn to technological marvels, and ultimately used both new and old methods to take down a Goliath that preyed on the people of their village, forever changing their life\'s path.\n After Bloodhound\'s lover was unceremoniously killed in the Thunderdome, they vowed to win enough battles that they could both enter Valhalla… and the Apex Games were the perfect place for Bloodhound to accumulate victories. Their unparalleled tracking skills are a boon to any team they join, helping them root out hidden opponents and track enemy movements. Calling on Earth\'s Old Norse Gods to guide them, Bloodhound believes that destiny is a path that has already been laid out, eventually carrying all to their death. But with that knowledge comes strength, because until that day comes, Bloodhound knows they can\'t be stopped.</item>
+
+        <item>Tressa Crystal Smith isn\'t everyone\'s cup of tea–an elegant, standoffish woman, she likes crystals more than she likes most people. She grew up on Boreas, a faltering planet with a deteriorating moon. Conformity and efficiency were necessities there, but that never suited Tressa. Instead, she was more at home with fellow misfits who spent their time on crystal readings, moon rituals and personal witchery–they supported her through her self-discovery and transition, making her turbulent teenage years easier and less lonely. But when her closest friend went to extreme lengths to save their moon from corporate encroachment, Tressa was caught in the middle. Ultimately, she ran away from home, finding solace in the one place her friend cared about most: their moon, Cleo.\n
+There she joined the terraforming crews hired to repair and rejuvenate the celestial body. She learned to work with ferrofluid, and use it with a certain witchy flair. She grew attached to her new community and, when the heat on Boreas died down, brought some of her old friends back into the fold. She found a place to call her own–just in time for the Apex Games to arrive and sweep it out from under her new family. But Catalyst won\'t disappear so easily. If the Games are going to get in her way, she\'s going to turn them to her advantage, putting the prize money to use supporting her family. She sees a win in her future, and she\'ll rise to the occasion.</item>
+
+        <item>Alexander Nox used to be one of the brightest scientists in the employ of Humbert Labs, the Frontier\'s leading manufacturer of pesticide gases. Nox worked day and night developing new formulas for the glut of pesticides needed to protect the crops that sustained the Outlands. But he soon realized that progress was being hampered by his testing methods. He needed to test on more than just inert tissue: he needed living subjects.\n
+As he toiled in secret, Nox began to see the beauty in his creations and their ability to destroy anything they touched. But the head of Humbert Labs soon discovered his gruesome experiments, and their confrontation ended with the lab in flames. Now, competing under the name Caustic, he puts his gaseous creations to work in the Apex Games and observes their effects with great interest.</item>
+
+        <item>On her rebuilt homeworld of Nexus, Rowenna Valentina Coffey Divina chose joy, her ever-present smile offering hope amidst the rubble of a government coup. There, the remnants of a fallen Monarch Titan became a symbol of sacrifice, inspiring heroic tales of Legends that Rowenna spun for her siblings. Her sense of humor would be her family\'s shield against the harshness of reality, and a secret weapon in Rowenna\'s own quest to be an Apex Legend.\n
+But when tragedy struck her oldest sister Diwa, Rowenna took her family\'s fate into her own hands. She snuck into the restricted battlefields, salvaging the Titan\'s radioactive battery. From it, Rowenna forged a combat rig, harnessing its lethal energy to fight in local tournaments. Every victory helped support her loved ones and brought her closer to becoming a Legend, but at a grave cost:\n
+The battery\'s fallout was slowly killing her.\n
+It didn\'t matter. To achieve her dream, it was a price Rowenna was ready to pay. Her success led neutral Nexus to its first invitation to the Apex Games, forcing a heated confrontation with Diwa, who recognized the armor\'s fatal origin. But Rowenna had made her choice.\n
+Now, as Conduit, she steps onto the battlefield. Equal parts fan and gladiator, fueled by the Monarch Titan\'s battery and her own quest to give her family a better life.\n
+For Rowenna, an early death is inevitable, but right now–it\'s Conduit\'s chance for a day in the sun.</item>
+
+        <item>Crypto specializes in secrets. A brilliant hacker and encryption expert, he uses aerial drones to spy on his opponents in the Apex Arena without being seen. He also has a secret of his own: his name is Tae Joon Park, and he joined the Apex Games to find the people who framed him for murder.\n
+An orphan abandoned at a young age, Tae Joon escaped a life of squalor by becoming a computer engineer for the Mercenary Syndicate, along with his foster sister, Mila Alexander. One day, Tae Joon and Mila stumbled upon an algorithm that could predict the result of any Apex Games match, hidden away in the Games\' own computer systems. That caught the attention of the wrong people - the next day, Mila disappeared, and Tae Joon was forced to into hiding after he was framed for her murder. He\'s now joined the Games to clear his name - because sometimes the spotlight is the best place to hide.</item>
+
+        <item>Ladies\' man, man\'s man, and all-round manly man, Fuse is a one man wrecking crew.. and he knows it. Fuse exudes joy; he\'s a laid-back explosives enthusiast who\'s damn near covered in things that go BOOM. Fuse doesn\'t lack confidence, but he often lacks a plan. He\'s a blow-up-first ask-questions-later kinda guy, who\'s always looking for a good scrap.\n
+Fuse grew up on Salvo—a brutal planet ruled by a rotating collection of misfit warlords bent on mayhem, murder, and good times. For most of his life, he worked as a mercenary alongside his childhood friend, Maggie. But while she aspired to become one of Salvo\'s most powerful warlords, Fuse felt the pull of the arena. Fuse found his calling late in life fighting in Salvo\'s bloodsport: the Bonecage. He proved to be the best, most charismatic and beloved gladiator on the planet. But he itched to join the grandest stage of them all: the Apex Games. While Salvo remained a part of Independent Space that dream was impossible, but once they joined the Syndicate, his chance arrived.</item>
+
+        <item>Gibraltar is a gentle giant with a wild side. The son of two SARAS (Search and Rescue Association of Solace) volunteers, he has always been skilled at getting others out of dangerous situations that are common in the Outlands. However, he only began to understand the value of protecting others when he and his boyfriend stole his father\'s motorcycle, took it on a joyride, and got trapped by a deadly mudslide. His parents saved them, and his father lost an arm in the process. Gibraltar has never forgotten that sacrifice and has devoted his life to helping those in need.\n
+The Apex Games didn\'t change that, but they changed what it meant. Many of Gibraltar\'s friends and colleagues have competed in the Games for extra money, fame, and glory over the years, and some never came home. Gibraltar joined to keep them safe and, for the first time, his skills as a rescuer and his rebellious nature worked together. He\'s now become an icon in the Apex Games, putting himself in the line of fire to protect his squad and send his opponents running for cover.</item>
+
+        <item>Almost a century ago, the Outlands were dangling on the edge of a cataclysmic energy crisis. Dr. Mary Somers, a charmingly eccentric astrophysicist, was hired to find a solution. Mary moved her family to the scientific research station on Olympus and set to work.\n
+With the help of her apprentice, Dr. Reid, Mary discovered Branthium - an element she was convinced could be the key to limitless energy. But Branthium can be found only on the accretion disk of a black hole, so Mary and Dr. Reid departed on a dangerous mission to prove her theory right.\n
+Mary promised her son Newton she\'d return safe and sound. But Dr. Reid betrayed her, stealing the Branthium and sending her shuttle into the black hole\'s orbit. Using her wits, Mary modified her robotic vacuum companion N.E.W.T. to escape. But time moves differently on the outskirts of a black hole, and she was 87 years too late.\n
+Now Mary is determined to fund her research to find a way to go back in time and be with her son. She joins the Apex Games as Horizon, master of gravity, just in time for the next season to debut on Olympus—where her old life once was and where she had promised to return.</item>
+
+        <item>Ajay Che, aka Lifeline, isn\'t someone you would expect to find in the Apex Games. The child of wealthy war profiteers, she left home when she learned of the damage her family had caused and enlisted in the Frontier Corps, a humanitarian organization that aids Frontier communities in need. She\'s since devoted her life to helping others and joined the Apex Games to give more funds to those in need.\n
+Since no one in the Games is innocent — they all know what they signed up for — and every one of her victories means help for those in need, Lifeline has no problem engaging in the popular bloodsport. Or so she tells herself. She may seem sarcastic and callous, but deep down she wants to help people and make the world a better place. If that means taking a few people down in the process, so be it.\n
+But when a rift in reality swallows her loyal health drone, D.O.C., Lifeline reaches into it, sacrificing her own hand and barely managing to pull D.O.C. back to reality. Instead of crumpling under the weight of the universe, Lifeline “repairs” her damaged hand with cybernetic implants, then rebuilds D.O.C. better than ever.\n
+Now, Lifeline\'s days of getting pulled into chaotic events are over. She\'ll throw herself into them headfirst, on her–and D.O.C.\'s–own terms.</item>
+
+        <item>When Loba was nine, she looked on as simulacrum hitman Revenant killed her family. Left with nothing, Loba survived by picking pockets. As her skills improved, Loba used every tool at her disposal to lift herself from the gutter. Everything changed when she broke into a supposedly impenetrable facility and got her hands on the Jump Drive tech stored inside. With her new teleportation bracelet, the most secure and unattainable items were within her reach. So was her dream of living the high life.\n
+Rumors spread across the Outlands: if you wanted something valuable -and well guarded- Loba\'s who you go to. She was almost able to put her past behind her. But when Revenant joined the Games, her past catapulted into her future. Desperate to find a way to kill him, she sabotaged a facility full of Revenant bodies, bringing Skull Town and Thunderdome crashing down in the process. However, she learned it was just one of many such factories hidden across the Frontier. After finding out Revenant wishes for death, she\'s made it her mission to keep him alive as revenge. She plays in the Games to keep getting vengeance on Revenant, but.it doesn\'t hurt that the arenas are brimming with treasures just waiting to be plucked.</item>
+
+        <item>Margaret Kōhere - the woman who would one day be known as Mad Maggie - grew up in one of the dustiest, dullest corners of Salvo without any family to speak of. She was fortunate, then, to meet a kindred chaotic spirit: an adventurous young boy named Walter Fitzroy. The two were inseparable, and in their teenage years, they became mercenaries. Eventually this duo grew into the Cracked Talon - a powerful mercenary operation. It was here she earned her nom de guerre: Mad Maggie. But when rival warlord Sandringham Kelly signed a treaty with the Syndicate, Maggie\'s hopes for an independent Salvo were ruined, and Fuse abandoned her for the Games, leaving Maggie very mad indeed…\n
+By sabotaging Fuse\'s entrance into the Apex games, Maggie planned to expose how weak the Syndicate was, in hopes it would spark rebellion on Salvo.
+Fuse would assemble a team to take down Maggie… only for the pair to have a heart to heart where they came to accept each other\'s choices: Fuse will always follow the fun, and Maggie will always follow the cause.\n
+It seemed as though Maggie fell to her death after that exchange.. But she was apprehended by the Syndicate, and sentenced to fight to the death in the Apex Games. So she will: just not hers.</item>
+
+        <item>Mirage is the kind of guy who likes to stand out. The youngest of four brothers, he perfected the art of fooling around to get attention. The one thing he took seriously was Holo-Pilot technology: introduced to the illusion-creating tech by his engineer mother, he poured over the mechanisms and learned all he could about them. Even when his brothers went MIA during the Outlands\' Civil War, Mirage and his mother continued to develop holo devices, and the work brought them closer.\n
+While working as a bartender to make ends meet, Mirage heard amazing stories from his patrons about the Apex Games and the wealth and glory that came with victory. As good as both of those sounded, he knew he couldn\'t risk leaving his mother childless – until she gave him a set of customized holo devices and told him to follow his dream. Mirage is now the life of the Apex Games, outwitting opponents and charming audiences across the Outlands, in front of cameras for the world - and his mother - to see.</item>
+
+        <item>Lamont Craig wasn\'t like other dads in the neighborhood. Sure, he dropped the kids off at school and acted out multiple voices every night for Story Time with his toddler. But Lamont had secrets—the first being his real name, Jackson Williams.\n
+A top soldier for the IMC, Jackson went AWOL when he ignored direct orders to fight what he believed was a losing battle. He knew he would never be safe from the remnants of the IMC—and neither would his sister, Anita, as long as she was with him. So when he was presumed dead in a ship explosion, he used that opportunity to leave his life behind, even if it meant leaving her behind too.\n
+Years later, “Lamont” moved to an idyllic little town called Harris Valley, where he fell in love and got married. Harris Valley was so peaceful that they didn\'t need law enforcement. All they needed was their knight, Newcastle. But the knight had secrets of his own: Newcastle had sold off the town to pay off his debts, and thugs from a gang called the Forgotten Families came to collect. They killed Newcastle when he couldn\'t pay, unaware that Lamont was watching. He defeated them using his military acumen, but the Forgotten Families had plenty of reinforcements.\n
+So Lamont came up with a dangerous solution. With Newcastle\'s armor, he could take on his identity and do what Newcastle could not: get into the Apex Games. With prize money like that, he could definitely pay off the debts. But not without the risk of being discovered by his little sister, the Apex Legend, Bangalore.</item>
+
+        <item>One day, Octavio Silva was bored. In fact, he was bored most days. Son of the preoccupied CEO of Silva Pharmaceuticals and wanting for nothing in life, he entertained himself by performing death-defying stunts and posting holovids of them for his fans to gawk over. He decided to set the course record for a nearby Gauntlet by launching himself across the finish line – using a grenade.\n
+As he lay in triage hours later, the doctors informed him that the damage done to his legs meant his daredevil days were over. That didn\'t sit well with Octavio, who turned to an old friend for help: Ajay Che, who he guilted into forging an order to replace his legs with bionic ones. Suddenly able to repair his limbs at a moment\'s notice, Octavio decided petty online stunts weren\'t enough: the ultimate adrenaline rush, the Apex Games, was calling. Since then, despite learning the man he thought was his father is his grandfather and new head of the Syndicate and the Games, he\'s worked to become an Apex Champion by doing the most incredible, death-defying moves anyone\'s ever seen. Maybe in the arena, he won\'t be so bored.</item>
+
+        <item>Pathfinder is the picture of optimism, despite his circumstances. A MRVN (Mobile Robotic Versatile eNtity) with a talent for location scouting and surveying, he booted up decades ago in an abandoned warehouse with no idea who created him or why. With only his MRVN designation to hint at his identity, Pathfinder eventually set off in search of his creator. Thanks to the help of the Legends, he learned he was built by the Outlands\' greatest scientists to help solve the Outlands\' energy crisis.\n
+Pathfinder has learned much in his travels since then (like how to make a mean Eastern Leviathan Stew) but his most important discovery is that some of his spare parts were used to build another machine… Pathfinder\'s child. He originally joined the Apex Games to gain a following and hopefully draw the attention of his maker, but now he aims to draw the attention of anyone who might know about his child. In the meantime, he remains enthusiastic and helpful, always ready to make new friends (then shoot them).</item>
+
+        <item>Rampart is a blue-collar, private business owner who just needs a big gun and a backpack full of scrap metal to get by in the dangerous, wild west world of the Outlands. Before opening her popular modding shop on Gaea, Ramya Parekh (Rampart for short) made a name for herself in the underground gauntlet circuit. Parekh climbed to the top showcasing pure skill using her custom-modded gear. She began taking jobs from smugglers, Syndicate members, and everyone in between. Some say it ain\'t great unless it\'s got “Rampart” written on it.\n
+Parekh never shied away from letting people know how great she was, or better yet, how bad they were. Maybe that\'s what led a group of assailants to ambush her at her shop one night. Her business burned down and she was left with nothing — except an Apex Card. For Parekh, the Apex card is more than just an invitation to compete - it\'s a sign that she may have lost her shop, but she didn\'t lose what built it. Like her motto says, she\'s the kind of person who can always "turn crap into gold.”</item>
+
+        <item>Revenant used to be human. He used to be the greatest hitman the Mercenary Syndicate ever had. He used to look in the mirror and see his human face looking back. But time changes everything, and when his programming finally failed, he saw what he had become at the hands of the Mercenary Syndicate and Hammond Robotics: a walking nightmare of steel and vestigial flesh. His masters resurrected him as a simulacrum, snatching him from death\'s embrace again and again and programming him to forget.\n
+He hunted down every last person who did this to him, but the last thing he wanted, he couldn\'t have: the sweet release of death. Unable to die without destroying his preserved human head, he was on the hunt to find and deal with it. When Loba, a thief whose parents he\'d murdered, came for her revenge, he nearly got what he wanted—but she kept him alive so he would continue to suffer. Then his world unraveled again when he woke up with his abilities torn from him and replaced with new ones. Now who\'s messing with him–and why? Revenant won\'t stop until he finds out.</item>
+
+        <item>Before his birth, it was foretold that Seer would bring pain and suffering to the world—and the night he was born, a meteor barreled across the sky and struck his world\'s moon. It was considered a bad omen, and when the pale blue eyes of Obi Edolasim opened, his community saw a cursed child. His parents did not; they loved him unconditionally because they saw the true empathic, creative soul of their son. They even supported him when he was drawn to the theatricality of the Arenas, where he could express himself fully.\n
+At first, the crowds felt unsure of him. But over time, with each victory, the power inside him grew, and with it, his strength in the Arena. And as his reputation began to precede him, a strange thing happened… The people in the crowd who were downtrodden, outcast, and forgotten—they saw themselves in Seer. Soon, throngs of people would come out just to see him fight—cheering Seer on as their champion. This legend from the Arenas made his way to the Apex Games as an icon of the shunned, the unaccepted, and the unabashedly original. Still, there are those that continue to blame him for the deterioration of the moon of his homeworld Boreas for many reasons–his curse, his underwhelming aid to the people of Boreas, and now for bringing the Games to the moon. He fights on to make things right, however he can.</item>
+
+        <item>Bold, brash, fiery and fierce, Kairi Imahara isn\'t above greasing palms and bending the law. When she was a child, she stole a Titan. It belonged to her dad: callsign Viper. She wanted to be just like him when she grew up. But the next day he left on a mission and never returned. In some ways, she still followed in his footsteps: it wasn\'t a Titan, but her ship offered a decent living. Her personal life, however, was anything but. During the day, she smuggled precious cargo, and at night, went shot for shot with the outlaws and mercs in the bars. But even though she had her ladies, her liquor, and her love of the sky, she was still obsessed with finding the man who\'d put her father in harm\'s way: his commander, Kuben Blisk.\n
+She tracked Blisk down, prepared to kill him. But he spoke of her father with respect — and challenged her to be better. She shot him anyway. But not to kill. Knowing she could get to him was enough. Well, that, and the Apex Games card she took from Blisk\'s grasp.\n
+Using the intact flight core from Viper\'s Northstar, she built a sleek new jetpack that honored her father\'s memory. And that was when Kairi could finally soar on her own… and in a version of her dad\'s Titan, that ended up being hers after all.</item>
+
+        <item>Xiomara “Mara” Contreras was born and raised alone on the wild ice planet Págos by her survivalist mother, Xenia. Mara proved gifted with a sniper rifle from the moment she was big enough to look through the scope and reach the trigger at the same time. The tight-lipped Xenia could only get her chatty daughter to stop asking questions by giving her a scavenged copy of Encyclopedia Outlandica, which Mara memorized front to back.\n
+When Mara was 18, she discovered the wreck of the G.D.S. Vantage. Against her mother\'s wishes, Mara snuck in, only to learn that she had been lied to. Her mother hadn\'t grown up on Págos: she was brought there on the G.D.S. Vantage as a prisoner. Disturbed by the intrusion, the ship collapsed into a crevasse, trapping a wounded Mara. Her mother only found her after a baby bat Mara had rescued circled the crevasse holding Mara\'s signature whistle. By the time Xenia got to her daughter, the injuries were too severe for her to treat.To save her daughter\'s life, Xenia set off the prison ship\'s SOS beacon, but was imprisoned once more in return.\n
+Once Mara had healed, she visited her mother in jail, promising to find a way to get her out. But Xenia begged Mara not to, fearful that Mara would wind up in prison beside her. It would break her heart to see her daughter share her fate, so Xenia told her daughter to get back to Págos and forget about her.\n
+But Mara would not. At a loss for what to do, unable to return to her planet, and unable to fit into society, Mara\'s eye turned to the Apex Games. In it, she saw a situation she understood—survival—and a platform to draw public attention to Xenia\'s case. With raised awareness of her wrongful conviction, she took the moniker Vantage to rally support and pressure those in power to set her mother free.</item>
+
+        <item>Natalie “Wattson” Paquette is a familiar face in the Apex Games, though for a different reason than most. Daughter of the Games\' lead electrical engineer, she studied his manuals to stay close to him, and discovered her calling at a young age. Though she could be completely distracted one moment and hyper-focused the next, electricity grounded her – its ordered, predictable flow made sense in a way the rest of the world didn\'t.\n
+She devoured every book she could on the subject, and eventually became such a skilled engineer that she was commissioned to build the Apex Games\' Modified Containment Ring. Unfortunately, her father died the day it was revealed, leaving her alone. At her lowest moment, a group of competitors invited her to return to the arena with them, assuring her she would always have a home. She now fights alongside her friends in the arena she helped build, destroying incoming missiles, recharging shields, creating fences, and using her pylon to silence fights that get too loud. Nobody knows the arena better than Wattson – anyone who underestimates her is in for a shock.</item>
+
+        <item>Wraith is a whirlwind fighter, able to execute deadly attacks and manipulate spacetime by opening rifts in the fabric of reality — but those abilities came at a price. Years ago, she woke up in an IMC detention facility with no memory of who she was. Senior Science Pilot Renee Blasey, who volunteered as guinea pig for her own experiments.. whose partner betrayed her and locked her away… no longer existed. All that was left was a timid girl, frightened by a cacophony of voices in her head, until another version of herself appeared and taught her to listen to the voices. Following her lead, Wraith found the strength to break free from her prison and escape into a different reality - this reality.\n
+Finally free, but still robbed of her memories, Wraith continues her quest to learn more about who she was before the experiments. With so many of the Apex Games held on old IMC bases, Wraith now competes so she can access the mysterious facilities and continue to learn more about who she was. She remains a fixture of the Apex Games, and with every match she gets closer to the truth, even if she sometimes feels scared to find out more about who she used to be.</item>
+    </string-array>
+
+
+    <string-array name="legends_photo_cover_data">
+        <item>@drawable/cover_alter</item>
+        <item>@drawable/cover_ash</item>
+        <item>@drawable/cover_ballistic</item>
+        <item>@drawable/cover_bangalore</item>
+        <item>@drawable/cover_bloodhound</item>
+        <item>@drawable/cover_catalyst</item>
+        <item>@drawable/cover_caustic</item>
+        <item>@drawable/cover_conduit</item>
+        <item>@drawable/cover_crypto</item>
+        <item>@drawable/cover_fuse</item>
+        <item>@drawable/cover_gibraltar</item>
+        <item>@drawable/cover_horizon</item>
+        <item>@drawable/cover_lifeline</item>
+        <item>@drawable/cover_loba</item>
+        <item>@drawable/cover_maggie</item>
+        <item>@drawable/cover_mirage</item>
+        <item>@drawable/cover_newcastle</item>
+        <item>@drawable/cover_octane</item>
+        <item>@drawable/cover_pathfinder</item>
+        <item>@drawable/cover_rampart</item>
+        <item>@drawable/cover_revenant</item>
+        <item>@drawable/cover_seer</item>
+        <item>@drawable/cover_valkyrie</item>
+        <item>@drawable/cover_vantage</item>
+        <item>@drawable/cover_wattson</item>
+        <item>@drawable/cover_wraith</item>
+    </string-array>
+
+    <string-array name="legends_photo_full_data">
+        <item>@drawable/full_alter</item>
+        <item>@drawable/full_ash</item>
+        <item>@drawable/full_ballistic</item>
+        <item>@drawable/full_bangalore</item>
+        <item>@drawable/full_bloodhound</item>
+        <item>@drawable/full_catalyst</item>
+        <item>@drawable/full_caustic</item>
+        <item>@drawable/full_conduit</item>
+        <item>@drawable/full_crypto</item>
+        <item>@drawable/full_fuse</item>
+        <item>@drawable/full_gibraltar</item>
+        <item>@drawable/full_horizon</item>
+        <item>@drawable/full_lifeline</item>
+        <item>@drawable/full_loba</item>
+        <item>@drawable/full_maggie</item>
+        <item>@drawable/full_mirage</item>
+        <item>@drawable/full_newcastle</item>
+        <item>@drawable/full_octane</item>
+        <item>@drawable/full_pathfinder</item>
+        <item>@drawable/full_rampart</item>
+        <item>@drawable/full_revenant</item>
+        <item>@drawable/full_seer</item>
+        <item>@drawable/full_valkyrie</item>
+        <item>@drawable/full_vantage</item>
+        <item>@drawable/full_wattson</item>
+        <item>@drawable/full_wraith</item>
+    </string-array>
+
+</resources>
