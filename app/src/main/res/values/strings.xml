@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LegendsPlaybook</string>
+    <string name="app_name">Legends Playbook</string>
 
     <string name="legends_name">Name</string>
     <string name="legends_description">Description</string>

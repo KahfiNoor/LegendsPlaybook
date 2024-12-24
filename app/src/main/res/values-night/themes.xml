@@ -10,9 +10,10 @@
 
     <style name="App.Theme.LegendsPlaybook" parent="Base.Theme.LegendsPlaybook" />
 
-    <style name="Theme.App.LegendsPlaybook" parent="Theme.Material3.DayNight">
+    <style name="Theme.SplashScreen" parent="App.Theme.LegendsPlaybook">
         <item name="windowSplashScreenBackground">@color/gray</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/icon_app</item>
         <item name="postSplashScreenTheme">@style/Base.Theme.LegendsPlaybook</item>
+        <item name="windowSplashScreenIconBackgroundColor">@drawable/bg_legends_abilities</item>
     </style>
 </resources>

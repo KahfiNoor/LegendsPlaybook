@@ -1,6 +1,5 @@
 package com.example.legendsplaybook
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
@@ -18,8 +17,11 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Thread.sleep(3000)
-        installSplashScreen()
+
+        installSplashScreen().setKeepOnScreenCondition{
+            true
+        }
+
         setContentView(R.layout.activity_main)
 
 //        supportActionBar?.setDisplayHomeAsUpEnabled(true)
